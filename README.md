@@ -1,8 +1,31 @@
 # 15-minute-apps
 Small Qt Apps inspired by https://github.com/pythonguis/15-minute-apps
 
-<blockquote>
+## Done:
+
+## In-Progress:
+1. [Calculator](calculator/) - "Calculon" (QtDesigner)
+
+## To-Do:
+1. [Web Browser (untabbed)](browser/) - "MooseAche"
+1. [Web Browser (tabbed)](browser_tabbed/) - "Mozzarella Ashbadger"
+1. **[Minesweeper](minesweeper/) - "Moonsweeper"**
+1. [Notepad](notepad/) - "No2Pads"
+1. [Calculator](calculator/) - "Calculon" (QtDesigner)
+1. [Word Processor](wordprocessor/) - "Megasolid Idiom"
+1. [Webcam/Snapshot](camera/) - "NSAViewer"
+1. [Media Player](mediaplayer/) - "Failamp"
+1. [Post-it Notes](notes/) - "Brown Note" (QtDesigner)
+1. **[Paint](paint/) - "Piecasso" (QtDesigner)**
+1. [Unzip](unzip/) - "7Pez" (QtDesigner)
+1. [Translator](translate/) - "Translataarrr" (QtDesigner)
+1. [Weather](weather/) - "Raindar" (QtDesigner)
+1. [Currency converter](currency/) - "Doughnut" (PyQtGraph)
+1. **[Solitaire](solitaire/) - "Ronery" (QGraphicsScene)**
+
+
 # Original Text:
+<blockquote>
 # 15 Minute Apps
 
 A collection of 15 small — *minute* — desktop applications written in Python
