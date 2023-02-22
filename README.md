@@ -1,15 +1,16 @@
 # 15-minute-apps
 Small Qt Apps inspired by https://github.com/pythonguis/15-minute-apps
 
+<blockquote>
 # Original Text:
-># 15 Minute Apps
+# 15 Minute Apps
 
->A collection of 15 small — *minute* — desktop applications written in Python
->using the PyQt framework. These apps are intended as examples from
->which you can poke, hack and prod your way to writing your own tools.
+A collection of 15 small — *minute* — desktop applications written in Python
+using the PyQt framework. These apps are intended as examples from
+which you can poke, hack and prod your way to writing your own tools.
 
->> Many of these apps have more detailed write-ups on my PyQt5/PySide2 site at [LearnPyQt.com](https://www.learnpyqt.com/apps/).
->If you're new to creating GUI apps check out the introductory [pyqt5 tutorial](https://www.learnpyqt.com/courses/start/).
+> Many of these apps have more detailed write-ups on my PyQt5/PySide2 site at [LearnPyQt.com](https://www.learnpyqt.com/apps/).
+If you're new to creating GUI apps check out the introductory [pyqt5 tutorial](https://www.learnpyqt.com/courses/start/).
 
 ## The apps
 
@@ -65,3 +66,4 @@ include the same license when distributing.
 ## Other licenses
 
 Icons used in the applications are by [Yusuke Kamiyaman](http://p.yusukekamiyamane.com/).
+</blockquote>
