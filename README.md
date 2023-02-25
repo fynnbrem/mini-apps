@@ -1,5 +1,5 @@
 # 15-minute-apps
-Small Qt Apps inspired by https://github.com/pythonguis/15-minute-apps
+Small Apps for playing with Qt, Testing and Patterns. Inspired by by https://github.com/pythonguis/15-minute-apps
 
 ## Done:
 
